@@ -56,3 +56,7 @@ p, #footer {
     margin-bottom: 0px;
     bottom: 0px;
 }
+
+body {
+  overflow: hidden;
+}
